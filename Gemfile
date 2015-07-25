@@ -3,12 +3,12 @@ source "http://rubygems.org"
 gem 'devise'
 
 group :development do
-  gem "ruby-debug"
+  gem "byebug"
   gem "jeweler"
 end
 
 group :test do
-  gem "rails", ">= 3.0.7"
+  gem "rails", ">= 3.2.6"
   gem "rspec-rails", ">= 2.5.0"
   gem "mocha"
   gem "shoulda"
