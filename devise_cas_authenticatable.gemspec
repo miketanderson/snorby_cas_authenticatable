@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
     "lib/devise_cas_authenticatable/exceptions.rb",
     "lib/devise_cas_authenticatable/model.rb",
     "lib/devise_cas_authenticatable/routes.rb",
-    "lib/devise_cas_authenticatable/schema.rb",
+    #"lib/devise_cas_authenticatable/schema.rb",
     "lib/devise_cas_authenticatable/strategy.rb",
     "rails/init.rb",
     "spec/routes_spec.rb",
