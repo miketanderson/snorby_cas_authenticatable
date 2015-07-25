@@ -31,7 +31,8 @@ begin
     gemspec.email = "natbudin@gmail.com"
     gemspec.homepage = "http://github.com/nbudin/devise_cas_authenticatable"
     gemspec.authors = ["Nat Budin"]
-    gemspec.add_runtime_dependency "devise", ">= 3.5.1"
+    #gemspec.add_runtime_dependency "devise", ">= 3.5.1"
+    gemspec.add_runtime_dependency "devise"
     gemspec.add_runtime_dependency "rubycas-client", ">= 2.2.1"
   end
   Jeweler::RubygemsDotOrgTasks.new

@@ -13,8 +13,8 @@ using [rubycas-server](http://github.com/gunark/rubycas-server)).
 Requirements
 ------------
 
-- Rails 2.3 or 3.0
-- Devise 1.0 or greater
+- Rails 3.2 or greater
+- Devise 3.0 or greater
 - rubycas-client
 
 Installation
